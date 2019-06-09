@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JjjJjBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DiscordToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="ConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config.xml</Value>
+    </Setting>
+    <Setting Name="DownloadsPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Downloads</Value>
+    </Setting>
+    <Setting Name="TelegramToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="SaveContent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DiscoedTokenDebug" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="DiscoedTokenRelease" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="TelegramTokenDebug" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="TelegramTokenRelease" Type="System.String" Scope="User">
+      <Value Profile="(Default)">******************************</Value>
+    </Setting>
+    <Setting Name="Runner" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Runner.exe</Value>
+    </Setting>
+    <Setting Name="BotName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JjjJj</Value>
+    </Setting>
+    <Setting Name="StartupMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bot started!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
